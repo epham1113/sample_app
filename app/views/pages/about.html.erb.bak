@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ruby on Rail Tutorial Sample App | <%=@title%></title>
+<head>
+<h1>SampleApp</h1>
+<p>Find me in app/views/pages/about.html.erb</p>
+</html>

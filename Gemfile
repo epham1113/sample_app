@@ -30,6 +30,7 @@ gem 'sqlite3'
 #   gem 'webrat'
 # end
 group :development do
+   gem 'autotest'
    gem 'rspec-rails', '>=2.5.0'
 end
 
